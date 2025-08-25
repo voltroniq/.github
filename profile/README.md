@@ -77,7 +77,7 @@ All Voltroniq projects are open-source software licensed under the MIT license.
 
 ## 💬 Connect With Us
 
- - Official Website: https://voltroniq.dev
+ - Official Website: [Voltroniq](https://github.com/voltroniq)
 
  - X: [@voltroniq](https://x.com/voltroniq) for announcements and updates.
 
