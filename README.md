@@ -84,4 +84,4 @@ All Voltroniq projects are open-source software licensed under the MIT license.
 
  - Discussions: Use GitHub Discussions in each repository for questions and ideas.
 
-<p align="center"> <sub>Built with ⚡ by the Voltroniq Contributors.</sub> </p> ```
+<p align="center"> <sub>Built with ⚡ by the Voltroniq Contributors.</sub> </p>
