@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/voltroniq/.github/main/profile/voltroniq-logo-v0.png" alt="Voltroniq Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/voltroniq/.github/main/profile/voltroniq-logo-v0.png" alt="Voltroniq Logo" width="300"/>
 </p>
 
 <h1 align="center">Voltroniq</h1>
