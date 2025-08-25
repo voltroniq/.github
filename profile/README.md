@@ -35,7 +35,7 @@ Our current suite of tools includes:
 | :--- | :--- | :--- |
 | **[Arachne](https://github.com/voltroniq/arachne)** | A native async PHP framework for high-performance, non-blocking applications. | 🟢 Active Development |
 | **[Project Nexus](https://github.com/voltroniq/project-nexus)** | The next generation of PHP Framework | 🔄 Planning Phase |
-| **[Geol](https://github.com/voltroniq/geol)** | A Generative Engine Optimization (GEO) toolkit for the modern web. | 🔄 Planning Phase |
+| **[GeoL](https://github.com/voltroniq/geol)** | A Generative Engine Optimization (GEO) toolkit for the modern web. | 🔄 Planning Phase |
 
 ## 🛠️ Installation & Quick Start
 
