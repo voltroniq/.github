@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://github.com/voltroniq">GitHub</a> •
   <!-- <a href="https://voltroniq.dev">Website</a> • -->
+  <a href="https://www.linkedin.com/company/voltroniq">Linkedin</a> •
   <a href="https://x.com/voltroniq">X</a> •
   <a href="#-projects">Projects</a> •
   <!-- <a href="#-contributing">Contributing</a> -->
