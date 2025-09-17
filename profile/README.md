@@ -11,22 +11,17 @@
   <a href="https://github.com/voltroniq">GitHub</a> •
   <!-- <a href="https://voltroniq.dev">Website</a> • -->
   <a href="https://www.linkedin.com/company/voltroniq">Linkedin</a> •
-  <a href="https://x.com/voltroniq">X</a> •
-  <a href="#-projects">Projects</a> •
+  <a href="#-projects">Projects</a>
   <!-- <a href="#-contributing">Contributing</a> -->
-</p>
-
-<p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
 ---
 
 ## ⚡ About Voltroniq
 
-Voltroniq is an open-source initiative focused on pushing the boundaries of modern PHP development. We create powerful, intelligent, and developer-friendly frameworks and tools that are built for performance, scalability, and the future of the web.
+Voltroniq builds next‑generation frameworks and tools for modern software development. We believe in broadening beyond any single language or paradigm — embracing full‑stack development, async architecture, AI‑assisted workflows, and optimal developer experience.
 
-Our mission is to provide the PHP community with cutting-edge alternatives that embrace modern async patterns, AI-assisted development, and optimal developer experience.
+Our mission is to empower devs to build fast, scalable, maintainable, and smart applications using the best tools for the job.
 
 ## 🚀 Projects
 
@@ -34,21 +29,20 @@ Our current suite of tools includes:
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Arachne](https://github.com/voltroniq/arachne)** | A native async PHP framework for high-performance, non-blocking applications. | 🟢 Active Development |
-| **[PhyPHP](https://github.com/voltroniq/phy-php)** | Physical PHP that will make a big impact on how we create PHP tools | 🔄 Planning Phase |
-| **[Project Nexus](https://github.com/voltroniq/project-nexus)** | The next generation of PHP Framework | 🔄 Planning Phase |
-| **[GeoL](https://github.com/voltroniq/geol)** | A Generative Engine Optimization (GEO) toolkit for the modern web. | 🔄 Planning Phase |
+| **[New](https://github.com/voltroniq/)** | Testing purpose. | 🟢 Active Development |
+| **[Project FreeLancer](https://github.com/voltroniq/)** | Tool for freelancers | 🔄 Planning Phase |
+| **[JS Web App](https://github.com/voltroniq/)** | A JS web app that will help in AI. | 🔄 Planning Phase |
 
 ## 🛠️ Installation & Quick Start
 
 Each project has its own installation instructions. Please navigate to the specific repository for detailed guides.
 
-**To install a project via Composer (example for Arachne):**
+**To install a project via Composer (example for new):**
 
 ```bash
 # Clone the repository
-git clone git@github.com:voltroniq/arachne.git
-cd arachne
+git clone git@github.com:voltroniq/new.git
+cd new
 
 # Install dependencies
 composer install
@@ -59,31 +53,41 @@ php -S localhost:8000 -t public
 # Visit in your browser
 http://localhost:8000
 ```
-## 🤝 Contributing
+## 🤝 Contributing to Voltroniq’s Open Source
 
-Voltroniq is built by the community, for the community. We enthusiastically welcome contributions of all kinds.
+Voltroniq welcomes contributions to our open source projects! There are many ways you can help out. Below are some guidelines to make contributing easier for everyone.
 
- - Bug Reports: Please use the GitHub Issues section of the respective project.
+### How You Can Help
 
- - Feature Requests: Open an issue and describe the proposed feature.
+ - Bug Reports
+Found something not working as expected? Please open a GitHub issue in the relevant project with as many details as you can: steps to reproduce, what you saw vs what you expected, environment info, etc.
 
- - Pull Requests: We love PRs! Please read our Contributing Guide for details on our code standards and process.
+- Feature Requests
+Have an idea to improve things? Submit an issue describing your proposed feature, why it’s useful, and any thoughts you have on how it might work.
 
- - Documentation: Improving documentation is a hugely valuable contribution.
+- Pull Requests (Code Contributions)
+We welcome code contributions! Before submitting a PR, please check our Contributing Guide to see our coding standards, branch naming, testing requirements, etc.
 
-Before contributing, please read our Code of Conduct.
+- Documentation Improvements
+Clear documentation is crucial. You can contribute by fixing typos, clarifying instructions, adding examples or tutorials, or simply making things easier to understand.
+
+### Important Things to Know
+
+- Contributing Guide & Code of Conduct
+Before you start, please take a look at our Contributing Guide and Code of Conduct. These outline how we work, what code style we use, how reviews are handled, and how we ensure the community stays welcoming and respectful.
+
+- Scope
+Only the open source parts of Voltroniq are open for external contributions. If you’re unsure whether a component is open source or not, just check the repository or ask!
 
 ## 📄 License
 
-All Voltroniq projects are open-source software licensed under the MIT license.
+Voltroniq projects that are open-source software are all licensed under the MIT license.
 
 ## 💬 Connect With Us
 
  - Official Website: [Voltroniq](https://github.com/voltroniq)
 
  - Linkedin: [Voltroniq](https://www.linkedin.com/company/voltroniq) for news and information.
-
- - X: [@voltroniq](https://x.com/voltroniq) for announcements and updates.
 
  - Discussions: Use GitHub Discussions in each repository for questions and ideas.
 
