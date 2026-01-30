@@ -29,7 +29,6 @@ Our current suite of tools includes:
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[New](https://github.com/voltroniq/)** | Testing purpose. | 🟢 Active Development |
 | **[Project FreeLancer](https://github.com/voltroniq/)** | Tool for freelancers | 🔄 Planning Phase |
 | **[JS Web App](https://github.com/voltroniq/)** | A JS web app that will help in AI. | 🔄 Planning Phase |
 
