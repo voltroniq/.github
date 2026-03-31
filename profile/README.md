@@ -29,6 +29,8 @@ Our current suite of tools includes:
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
+| **[Plinko Potions](https://github.com/voltroniq/)** | Android Game by Voltroniq Studios | ⏳ Releasing Phase |
+| **[Project Blocker](https://github.com/voltroniq/)** | Android app tool for focus | 🛠️ Building Phase |
 | **[Project FreeLancer](https://github.com/voltroniq/)** | Tool for freelancers | 🔄 Planning Phase |
 | **[JS Web App](https://github.com/voltroniq/)** | A JS web app that will help in AI. | 🔄 Planning Phase |
 
