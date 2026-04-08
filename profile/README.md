@@ -4,91 +4,77 @@
 
 <h1 align="center">Voltroniq</h1>
 <p align="center">
-  <strong>Building the next generation of high-performance PHP tools.</strong>
+  <strong>Engineering software for clarity, control, and intent.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/voltroniq">GitHub</a> •
-  <!-- <a href="https://voltroniq.dev">Website</a> • -->
-  <a href="https://www.linkedin.com/company/voltroniq">Linkedin</a> •
-  <a href="#-projects">Projects</a>
-  <!-- <a href="#-contributing">Contributing</a> -->
+  <a href="https://www.linkedin.com/company/voltroniq">LinkedIn</a>
 </p>
 
 ---
 
 ## ⚡ About Voltroniq
 
-Voltroniq builds next‑generation frameworks and tools for modern software development. We believe in broadening beyond any single language or paradigm — embracing full‑stack development, async architecture, AI‑assisted workflows, and optimal developer experience.
+Voltroniq is an independent studio building software with a long view.
 
-Our mission is to empower devs to build fast, scalable, maintainable, and smart applications using the best tools for the job.
+We create products that help people stay clear, intentional, and in control — whether they’re navigating attention, working through ideas, interacting with systems, or building on top of them.
+
+We don’t focus on a single category. The same core idea shows up in different forms, across mobile, desktop, and interactive experiences.
+
+Good craft, honest behavior, and tools that hold up over time.
+
+---
 
 ## 🚀 Projects
 
-Our current suite of tools includes:
+Our work spans multiple directions, each exploring a different part of digital life:
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Velvet Fade](https://github.com/voltroniq/)** | Gentle reminder tool | 🔎 Closed Testing Phase |
-| **[Project Puzzle](https://github.com/voltroniq/)** | Android game by Voltroniq Studios | 🛠️ Building Phase |
-| **[JS Web App](https://github.com/voltroniq/)** | A JS web app that will help in AI. | 🔄 Planning Phase |
+| **Velvet Fade** | A soft interruption layer for mindless app usage. | 🔎 Closed Testing |
+| **Project Mood** | A structured tool for self-discovery and emotional awareness. | 🛠️ Early Development |
+| **Project String** | A narrative puzzle game. | 🛠️ Early Development |
+| **Project Scripting** | A tool for verifying and controlling AI-generated content. | 🔄 Planning |
 
-## 🛠️ Installation & Quick Start
+---
 
-Each project has its own installation instructions. Please navigate to the specific repository for detailed guides.
+## 🧭 How We Work
 
-**To install a project via Composer (example for new):**
+We take a different approach to building:
 
-```bash
-# Clone the repository
-git clone git@github.com:voltroniq/new.git
-cd new
+- Fewer products, built to last  
+- No hidden incentives or engagement traps  
+- Systems that stay understandable and predictable  
+- Tools that support the user — not compete with them  
 
-# Install dependencies
-composer install
+---
 
-# Run the built-in PHP server
-php -S localhost:8000 -t public
+## 🛠️ Repositories
 
-# Visit in your browser
-http://localhost:8000
-```
-## 🤝 Contributing to Voltroniq’s Open Source
+Each project lives in its own repository with its own setup and documentation.
 
-Voltroniq welcomes contributions to our open source projects! There are many ways you can help out. Below are some guidelines to make contributing easier for everyone.
+This organization is primarily used to:
+- host product code
+- experiment with internal tools
+- share selected components when it makes sense
 
-### How You Can Help
-
- - Bug Reports
-Found something not working as expected? Please open a GitHub issue in the relevant project with as many details as you can: steps to reproduce, what you saw vs what you expected, environment info, etc.
-
-- Feature Requests
-Have an idea to improve things? Submit an issue describing your proposed feature, why it’s useful, and any thoughts you have on how it might work.
-
-- Pull Requests (Code Contributions)
-We welcome code contributions! Before submitting a PR, please check our Contributing Guide to see our coding standards, branch naming, testing requirements, etc.
-
-- Documentation Improvements
-Clear documentation is crucial. You can contribute by fixing typos, clarifying instructions, adding examples or tutorials, or simply making things easier to understand.
-
-### Important Things to Know
-
-- Contributing Guide & Code of Conduct
-Before you start, please take a look at our Contributing Guide and Code of Conduct. These outline how we work, what code style we use, how reviews are handled, and how we ensure the community stays welcoming and respectful.
-
-- Scope
-Only the open source parts of Voltroniq are open for external contributions. If you’re unsure whether a component is open source or not, just check the repository or ask!
+---
 
 ## 📄 License
 
-Voltroniq projects that are open-source software are all licensed under the MIT license.
+Licensing varies by project.  
+If a repository is open-source, it will include its license in that repo.
 
-## 💬 Connect With Us
+---
 
- - Official Website: [Voltroniq](https://github.com/voltroniq)
+## 💬 Connect
 
- - Linkedin: [Voltroniq](https://www.linkedin.com/company/voltroniq) for news and information.
+- Official Website: [Voltroniq](https://www.voltroniq.com/)
+- LinkedIn: https://www.linkedin.com/company/voltroniq
 
- - Discussions: Use GitHub Discussions in each repository for questions and ideas.
+---
 
-<p align="center"> <sub>Built with ⚡ by the Voltroniq Contributors.</sub> </p>
+<p align="center">
+  <sub>Built with intent by Voltroniq.</sub>
+</p>
