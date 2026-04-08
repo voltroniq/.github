@@ -32,7 +32,7 @@ Our work spans multiple directions, each exploring a different part of digital l
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **Velvet Fade** | A soft interruption layer for mindless app usage. | 🔎 Closed Testing |
+| **[Velvet Fade](https://www.voltroniq.com/VelvetFade.html)** | A soft interruption layer for mindless app usage. | 🔎 Closed Testing |
 | **Project Mood** | A structured tool for self-discovery and emotional awareness. | 🛠️ Early Development |
 | **Project String** | A narrative puzzle game. | 🛠️ Early Development |
 | **Project Scripting** | A tool for verifying and controlling AI-generated content. | 🔄 Planning |
