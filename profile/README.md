@@ -33,9 +33,9 @@ Our work spans multiple directions, each exploring a different part of digital l
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[Velvet Fade](https://www.voltroniq.com/VelvetFade.html)** | A soft interruption layer for mindless app usage. | 🚀 Available in Playstore |
-| **Project Script** | A tool for verifying and controlling AI-generated content. | 🛠️ Early Development |
-| **Project Mood** | A structured tool for self-discovery and emotional awareness. | 🔄 Planning |
-| **Project String** | A narrative puzzle game. | 🔄 Planning |
+| **Project Gate** | A tool for verifying and controlling AI-generated content. | 🛠️ Early Development |
+| **Project Axis** | A structured tool for self-discovery and emotional awareness. | 🔄 Planning |
+| **Project Loom** | A narrative puzzle game. | 🔄 Planning |
 | **Project Action** | A browser based action game. | 🔄 Planning |
 
 ---
