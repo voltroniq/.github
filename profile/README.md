@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/voltroniq">GitHub</a> •
-  <a href="https://www.linkedin.com/company/voltroniq">LinkedIn</a>
+  <a href="https://github.com/voltroniq" target="_blank" rel="noopener noreferrer">GitHub</a> •
+  <a href="https://www.linkedin.com/company/voltroniq" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 ---
@@ -18,11 +18,11 @@
 
 Voltroniq is an independent studio building software with a long view.
 
-We create products that help people stay clear, intentional, and in control — whether they’re navigating attention, working through ideas, interacting with systems, or building on top of them.
+We create products across different categories — from behavioral tools to interactive systems and technical utilities — but the philosophy stays consistent: build software that behaves clearly, stays understandable, and respects the person using it.
 
-We don’t focus on a single category. The same core idea shows up in different forms, across mobile, desktop, and interactive experiences.
+We work across mobile, interactive, and technical software not to chase categories, but to build things that serve a real purpose.
 
-Good craft, honest behavior, and tools that hold up over time.
+Good craft, honest behavior, and tools built to hold up over time.
 
 ---
 
@@ -32,7 +32,7 @@ Our work spans multiple directions, each exploring a different part of digital l
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Velvet Fade](https://www.voltroniq.com/VelvetFade.html)** | A soft interruption layer for mindless app usage. | 🚀 Available in Playstore |
+| <a href="https://www.voltroniq.com/VelvetFade.html" target="_blank" rel="noopener noreferrer"><strong>Velvet Fade</strong></a> | A soft interruption layer for mindless app usage. | 🚀 Available in Playstore |
 | **Project Jackie** | A browser based action game. | 🛠️ Early Development |
 | **Project Gate** | A tool for verifying and controlling AI-generated content. | 🛠️ Early Development |
 | **Project Axis** | A structured tool for self-discovery and emotional awareness. | 🔄 Planning |
@@ -70,8 +70,9 @@ If a repository is open-source, it will include its license in that repo.
 
 ## 💬 Connect
 
-- Official Website: [Voltroniq](https://www.voltroniq.com/)
-- LinkedIn: https://www.linkedin.com/company/voltroniq
+- Official Website: <a href="https://www.voltroniq.com/" target="_blank" rel="noopener noreferrer">Voltroniq</a>
+- LinkedIn: <a href="https://www.linkedin.com/company/voltroniq" target="_blank" rel="noopener noreferrer">Voltroniq LinkedIn</a>
+- X (Twitter): <a href="https://x.com/voltroniq" target="_blank" rel="noopener noreferrer">@voltroniq</a>
 
 ---
 
